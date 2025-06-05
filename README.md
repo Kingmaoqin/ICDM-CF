@@ -11,10 +11,7 @@ This repository contains implementations of our algorithms based on PlatEMO v4.6
 
 - [Requirements](#requirements)  
 - [Installation](#installation)  
-- [Folder Structure](#folder-structure)  
-- [Usage](#usage)  
-- [Metrics](#metrics)  
-- [Contact](#contact)  
+
 
 ---
 
@@ -28,11 +25,3 @@ This repository contains implementations of our algorithms based on PlatEMO v4.6
   All scripts have been tested on MATLAB R2018b and newer. Lower versions may work but are not guaranteed.
 
 ---
-
-## Installation
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/YourUsername/YourRepo.git
-   cd YourRepo
-
